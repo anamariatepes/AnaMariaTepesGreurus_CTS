@@ -1,7 +1,7 @@
 package ro.ase.csie.clase.ase.csie.clase;
 
 
-public class IngrijitorZOO {
+public class IngrijitorZOO{
     private String nume;
 
     public String getNume() {

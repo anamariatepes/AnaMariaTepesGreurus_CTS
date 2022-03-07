@@ -1,6 +1,6 @@
 package clase;
 
-public abstract class Aplicant {
+public abstract class Aplicant  {
 	protected String nume;
 	protected String prenume;
 	protected int varsta;

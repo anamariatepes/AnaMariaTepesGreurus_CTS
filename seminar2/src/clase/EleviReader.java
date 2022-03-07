@@ -1,12 +1,12 @@
 package clase;
 
-import java.io.File;
+
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
-public class EleviReader extends IReader {
+
+public class EleviReader extends IReader{
     public EleviReader(String file) throws FileNotFoundException {
         super(file);
     }

@@ -1,6 +1,6 @@
 package ro.ase.csie.clase.ase.csie.clase;
 
-public class Zebra extends Animal {
+public class Zebra extends Animal{
     public Zebra(String nume) {
         super(nume);
     }

@@ -3,7 +3,7 @@ package ro.ase.csie.clase.ase.csie.clase;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ZOO {
+public class ZOO{
     private String nume;
     private IngrijitorZOO ingrijitor;
     private List<Animal> animale;

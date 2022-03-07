@@ -5,7 +5,7 @@ import ro.ase.csie.clase.ase.csie.clase.IngrijitorZOO;
 import ro.ase.csie.clase.ase.csie.clase.ZOO;
 import ro.ase.csie.clase.ase.csie.clase.Zebra;
 
-public class Main {
+public class Main{
     public static void main(String[] args){
         IngrijitorZOO ingrijitor=new IngrijitorZOO("Marius");
         Zebra z1=new Zebra("Elena");

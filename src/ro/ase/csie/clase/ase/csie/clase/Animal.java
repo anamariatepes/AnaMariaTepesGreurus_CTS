@@ -1,7 +1,7 @@
 package ro.ase.csie.clase.ase.csie.clase;
 
 
-public abstract class Animal {
+public abstract class Animal{
     private String nume;
 
     public Animal(String nume) {

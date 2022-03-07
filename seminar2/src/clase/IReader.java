@@ -2,11 +2,11 @@ package clase;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
+
 import java.util.List;
 import java.util.Scanner;
 
-public abstract class IReader{
+public abstract class IReader {
     protected Scanner scanner;
 
     public IReader(String file) throws FileNotFoundException {

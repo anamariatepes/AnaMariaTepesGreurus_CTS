@@ -2,7 +2,7 @@ package clase;
 
 import java.util.Arrays;
 
-public class Angajat extends Aplicant{
+public class Angajat extends Aplicant {
 	private String ocupatie;
 	private int salariu;
 	

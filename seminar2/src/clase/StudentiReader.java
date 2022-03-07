@@ -1,10 +1,10 @@
 package clase;
 
-import java.io.File;
+
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
+
 
 public class StudentiReader extends IReader {
     public StudentiReader(String file) throws FileNotFoundException {
