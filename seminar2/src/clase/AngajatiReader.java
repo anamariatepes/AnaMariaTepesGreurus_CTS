@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class AngajatiReader extends IReader{
-    public AngajatiReader(String file) throws FileNotFoundException {
+     public AngajatiReader(String file) throws FileNotFoundException {
         super(file);
     }
 

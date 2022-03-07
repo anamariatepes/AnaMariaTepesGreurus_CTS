@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Program {
 
-	public static void main(String[] args) {
+	public static void main(String[] args){
 		//afisam doar angajatii
 		List<Aplicant> listaAngajati;
 

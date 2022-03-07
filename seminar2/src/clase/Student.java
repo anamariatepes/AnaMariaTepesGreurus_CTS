@@ -2,7 +2,7 @@ package clase;
 
 import java.util.Arrays;
 
-public class Student extends Aplicant {
+public class Student extends Aplicant{
 	protected String facultate;
 	protected int an_studii;
 	
